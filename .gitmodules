@@ -3,4 +3,5 @@
 	url = https://github.com/safe-global/safe-smart-account.git
 [submodule "contracts"]
 	path = contracts
-	url = https://github.com/OffchainLabs/nitro-contracts.git
+	url = https://github.com/Layr-Labs/nitro-contracts.git
+	commit = e1fa3dd4cd7fda74b5739cdf6e71823c5cfa2f44
