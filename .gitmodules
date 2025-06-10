@@ -4,4 +4,4 @@
 [submodule "contracts"]
 	path = contracts
 	url = https://github.com/Layr-Labs/nitro-contracts.git
-	commit = 828cdfdc6e4751dce9c5d51a9c93814716bb18fd
+	commit = 67d9c912c40b92f2246cd057af25b3f3067f5c37
